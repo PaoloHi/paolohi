@@ -1,0 +1,13 @@
+:root {
+    --bg:rgb(255, 168, 168);
+
+}
+
+.navbar{
+    background-color: var(--bg);
+}
+
+.container {
+    background-color: var(--bg);
+    border:solid 1px #181818;
+}
