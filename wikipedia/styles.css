@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+.box{
+    padding:10px;
+    margin:auto;
+    width:80%;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+}
+.box > div{
+    padding:10px;
+    font-size: 1.2em;
+}
+
+.logo{
+    width:200px
+}
+
+.search{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.search h1{
+    display:block;
+    justify-content:center;
+    align-items:center;
+}
+
+.search-json{
+    display:inline;
+    text-align:center;
+}
+
+
+.search-inp input{
+    height:20px;
+    width:200px;
+}
+.search-inp button{
+   margin:0;
+    width: 100px;
+ 
+}
+
